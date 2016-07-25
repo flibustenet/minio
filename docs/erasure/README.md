@@ -41,6 +41,7 @@ Minio erasure code backend is limited by design to a minimum of 6 drives and a m
 * [Digital Ocean](https://www.digitalocean.com): Deploy an SSD cloud server in 55 seconds.
 * [OVH](https://www.ovh.com/us): Build your own infrastructure with OVH public cloud.
 * [Onlinetech](http://www.onlinetech.com): Secure, compliant enterprise cloud.
+* [Scaleway](https://www.scaleway.com): BareMetal SSD cloud server in seconds.
 * [SSD Nodes](https://www.ssdnodes.com): Simple, high performance cloud provider with truly personalized support.
 
 ## 2. Run Minio Server with Erasure Code.
